@@ -24,6 +24,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/srknzl" target="blank"><img align="center" width="50" height="50" alt="Linkedin Logo" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/linkedinlogo.png"></a>
+  <a href="https://linkedin.com/in/srknzl" target="_blank"><img align="center" width="50" height="50" alt="Linkedin Logo" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/linkedinlogo.png"></a>
 </p>
 
