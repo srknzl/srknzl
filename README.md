@@ -19,8 +19,11 @@
 </p>
 
 
+<p align="center">
+  Linkedin profile:
+</p>
 
 <p align="center">
-  Linkedin: <a href="https://linkedin.com/in/srknzl" target="blank"><img align="center" alt="Linkedin Logo" src="https://github.com/srknzl/srknzl/raw/master/images/linkedinlogo.png"></a>
+  <a href="https://linkedin.com/in/srknzl" target="blank"><img align="center" width="50" height="50" alt="Linkedin Logo" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/linkedinlogo.png"></a>
 </p>
 
