@@ -10,11 +10,11 @@
   <img align="center" alt="Serkan Özel Github Stats"  src="https://github-readme-stats.vercel.app/api?username=srknzl&count_private=true&show_icons=true&theme=algolia&include_all_commits=true">
 </p>
 
-
+<!--
 <p align="center">
-  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srknzl&theme=algolia">
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srknzl&theme=algolia&layout=compact&hide=Jupyter%20Notebook,Makefile">
 </p>
-
+-->
 
 <p align="center">
   Linkedin profile:
