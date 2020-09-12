@@ -1,12 +1,9 @@
-### My name is Serkan Özel👋
-
-<!---
 <p align="center">
   <img align="center"  src="https://github.com/srknzl/srknzl/raw/master/images/logo.png">
 </p>
--->
 
-* I am a backend developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
+
+* My name is Serkan Özel👋 I am a backend developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
 
 
 <p align="center">
