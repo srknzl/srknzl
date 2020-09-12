@@ -21,6 +21,6 @@
 
 
 <p align="center">
-  Linkedin: <a href="https://linkedin.com/in/srknzl" target="blank"><img align="center" alt="Linkedin Logo" src="linkedinlogo.png"></a>
+  Linkedin: <a href="https://linkedin.com/in/srknzl" target="blank"><img align="center" alt="Linkedin Logo" src="https://github.com/srknzl/srknzl/raw/master/images/linkedinlogo.png"></a>
 </p>
 
