@@ -24,6 +24,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/srknzl" target="_blank"><img align="center" width="50" height="50" alt="Linkedin Logo" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/linkedinlogo.png"></a>
+  <a href="https://linkedin.com/in/srknzl"><img align="center" width="50" height="50" alt="Linkedin Logo" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/linkedinlogo.png"></a>
 </p>
 
+
+<p align="center">
+  Portfolio:
+</p>
+<p align="center">
+  <a href="https://srknzl.github.io"><img align="center" width="50" height="50" alt="Portfolio" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/portfolio.png"></a>
+</p>
