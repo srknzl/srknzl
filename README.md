@@ -18,3 +18,9 @@
   <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srknzl&theme=algolia">
 </p>
 
+
+
+<p align="center">
+  Linkedin: <a href="https://linkedin.com/in/srknzl" target="blank"><img align="center" alt="Linkedin Logo" src="linkedinlogo.png"></a>
+</p>
+
