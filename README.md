@@ -3,7 +3,7 @@
 </p>
 
 
-* My name is Serkan Özel👋 I am a backend developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
+* Hi there👋 I am a backend developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
 
 
 <p align="center">
