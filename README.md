@@ -4,6 +4,7 @@
 
 
 * Hi there👋 I am a backend developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
+* I am also at gitlab! https://gitlab.com/srknzl
 
 
 <p align="center">
