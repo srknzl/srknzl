@@ -3,8 +3,8 @@
 </p>
 
 
-* Hi there👋 I am a software developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
-* I am also at gitlab! https://gitlab.com/srknzl
+Hi there👋 I am a software developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
+I am also at gitlab! https://gitlab.com/srknzl
 
 
 
