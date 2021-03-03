@@ -3,13 +3,11 @@
 </p>
 
 
-* Hi there👋 I am a backend developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
+* Hi there👋 I am a software developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
 * I am also at gitlab! https://gitlab.com/srknzl
 
 
-<p align="center">
-  <img align="center" alt="Serkan Özel Github Stats"  src="https://github-readme-stats.vercel.app/api?username=srknzl&count_private=true&show_icons=true&theme=algolia&include_all_commits=true">
-</p>
+
 
 <!--
 <p align="center">
@@ -17,18 +15,14 @@
 </p>
 -->
 
-<p align="center">
-  Linkedin profile:
-</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/srknzl"><img align="center" width="50" height="50" alt="Linkedin Logo" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/linkedinlogo.png"></a>
+
+<p >
+   Linkedin profile: <a href="https://linkedin.com/in/srknzl"><img align="center" width="50" height="50" alt="Linkedin Logo" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/linkedinlogo.png"></a>
 </p>
 
 
-<p align="center">
-  Portfolio:
-</p>
-<p align="center">
-  <a href="https://srknzl.github.io"><img align="center" width="50" height="50" alt="Portfolio" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/portfolio.png"></a>
+
+<p>
+  Portfolio: <a href="https://srknzl.github.io"><img align="center" width="50" height="50" alt="Portfolio" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/portfolio.png"></a>
 </p>
