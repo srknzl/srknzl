@@ -2,7 +2,7 @@
 
 
 Hi there👋 I am a software developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
-I am also at gitlab! https://gitlab.com/srknzl
+
 
 
 
@@ -13,14 +13,14 @@ I am also at gitlab! https://gitlab.com/srknzl
 </p>
 -->
 
-
+Gitlab: https://gitlab.com/srknzl
 
 <p >
-   Linkedin profile: <a href="https://linkedin.com/in/srknzl"><img align="center" width="50" height="50" alt="Linkedin Logo" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/linkedinlogo.png"></a>
+   Linkedin profile: <a href="https://linkedin.com/in/srknzl"><img align="center" width="25" height="25" alt="Linkedin Logo" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/linkedinlogo.png"></a>
 </p>
 
 
 
 <p>
-  Portfolio: <a href="https://srknzl.github.io"><img align="center" width="50" height="50" alt="Portfolio" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/portfolio.png"></a>
+  Portfolio: <a href="https://srknzl.github.io"><img align="center" width="40" height="40" alt="Portfolio" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/portfolio.png"></a>
 </p>
