@@ -1,26 +1,12 @@
 
 
 
-Hi there👋 I am a software developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
+Hi there👋 I am a software developer in Turkey. You can also find me on my:
 
 
+* Twitter: https://twitter.com/srkn_zl
+* Gitlab: https://gitlab.com/srknzl
+* Linkedin: https://linkedin.com/in/srknzl
+* Personal website & Portfolio: https://srknzl.github.io
 
 
-
-<!--
-<p align="center">
-  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srknzl&theme=algolia&layout=compact&hide=Jupyter%20Notebook,Makefile">
-</p>
--->
-
-Gitlab: https://gitlab.com/srknzl
-
-<p >
-   Linkedin profile: <a href="https://linkedin.com/in/srknzl"><img align="center" width="25" height="25" alt="Linkedin Logo" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/linkedinlogo.png"></a>
-</p>
-
-
-
-<p>
-  Portfolio: <a href="https://srknzl.github.io"><img align="center" width="40" height="40" alt="Portfolio" src="https://raw.githubusercontent.com/srknzl/srknzl/master/images/portfolio.png"></a>
-</p>
