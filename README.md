@@ -1,6 +1,4 @@
-<p align="center">
-  <img align="center"  src="https://github.com/srknzl/srknzl/raw/master/images/logo.png">
-</p>
+
 
 
 Hi there👋 I am a software developer at who loves technology and coding. I am sharing the things that I done here. Have fun!
