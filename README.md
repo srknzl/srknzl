@@ -1,7 +1,7 @@
 
 
 
-Hi there👋 I am a software developer in Turkey. You can also find me on my:
+Hi there👋 I am a software engineer living in Turkey. You can also find me on my:
 
 
 * Twitter: https://twitter.com/srkn_zl
