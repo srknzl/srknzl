@@ -11,8 +11,13 @@ Here is the acrostic poem written by ChatGPT3 for me:
 "Serkan"
 
 Standing at my computer,
+
 Excited to code and create
+
 Racing through lines of code
+
 Keen on learning and growing
+
 A master of my craft
+
 Never stopping, always moving forward
