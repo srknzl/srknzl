@@ -7,6 +7,7 @@ Hi there👋 I am a software engineer living in Turkey. Other places you can fin
 
 
 Here is the acrostic poem written by ChatGPT3 for me :)
+
 "Serkan"
 
 Standing at my computer,
